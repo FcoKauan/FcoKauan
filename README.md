@@ -1,7 +1,7 @@
 ### Olá! Eu me chamo Francisco Kauan 😄
 Gosto muito do mundo da programação.</br>
 Sou estudando do curso técnico em informática.</br>
-Faço o 2ºano do ensino médio.
+Faço o 3º ano do ensino médio.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fco_kauann)
 
