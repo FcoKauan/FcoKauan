@@ -25,7 +25,7 @@ Tenho 17 anos e sou estudante do curso técnico em informática, na escola profi
     align="left" 
     alt="GitHub Stats" 
     height="180" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-bottom: 10px" 
     src="https://github-readme-stats.vercel.app/api?username=FcoKauan&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
 
