@@ -6,6 +6,10 @@ Gosto muito do mundo da programação.</br>
 Tenho 17 anos e sou estudante do curso técnico em informática, na escola profissionalizante EEEP EDSON QUEIROZ, onde faço o 3º ano do ensino médio
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fco_kauann)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fco-kauan-5bb4652aa/)
+
+
+
 
 ## Tecnologias que eu utilizo 👇
 
