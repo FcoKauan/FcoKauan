@@ -3,7 +3,7 @@
 **`Desenvolvedor Front-End`**
 
 Gosto muito do mundo da programação.</br>
-Tenho 18 anos e sou estudante do curso técnico em informática, na escola profissional EEEP EDSON QUEIROZ, onde faço o 3º ano do ensino médio </br>
+Tenho 18 anos e sou Técnico em Informática pela EEEP Edson Queiroz</br>
 Estagiário da Infinity Solutions 🚀
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fco_kauann)
